@@ -143,10 +143,9 @@ Future improvements to this project may include:
 The aerodynamic simulation is carried out using SimScale's cloud-based CFD platform.
 
 This project is undertaken as part of an RC aircraft design and development effort, with the aim of applying aerospace engineering principles to practical aircraft design.
-
 ---
 
-**Author:** Ridhviraj Anil Rikke
+**Author:** Ridhviraj Anil Rikke    
 **Field:** Aerospace Engineering  
 **Project:** RC Aircraft Design and Aerodynamic Analysis  
 **Simulation Platform:** SimScale
