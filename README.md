@@ -146,7 +146,7 @@ This project is undertaken as part of an RC aircraft design and development effo
 
 ---
 
-**Author:** Allen Penrose  
+**Author:** Ridhviraj Anil Rikke
 **Field:** Aerospace Engineering  
 **Project:** RC Aircraft Design and Aerodynamic Analysis  
 **Simulation Platform:** SimScale
